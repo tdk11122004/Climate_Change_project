@@ -8,6 +8,7 @@ Crawler: Fetches all articles in the topic “Biến đổi khí hậu (Climate 
 Keyword Counter: Reads a list of user-defined keywords and counts their occurrences within each article, exporting results to a structured CSV table.
 
 📁 Project Structure
+```
 📦 Climate_Change_Project/
 │
 ├── main.py                       # Crawl all climate change articles via JSON API
@@ -18,6 +19,7 @@ Keyword Counter: Reads a list of user-defined keywords and counts their occurren
 │
 ├── keywords.txt                  # List of keywords (one per line)
 └── keyword_count.csv             # Output from analyzer (table of counts)
+```
 
 🚀 Features
 
